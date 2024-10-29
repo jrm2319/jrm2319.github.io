@@ -6,10 +6,6 @@ output:
     toc_float: true
 ---
 
-<div style="text-align: center;">
-   <img src="headshot.jpg" style="width:30%">
-</div>
-
 ### Introduction
 Hello! My name is Jasmin Martinez (she/her/ella) and I am originally from Northern Virginia and El Salvador. I am a first-generation Latina student at Columbia’s Mailman School of Public Health, currently pursuing my MPH in Epidemiology with a Applied Biostatistics and Data Science certificate. I completed my B.S. in Biology and Kinesiology at the College of William & Mary in Williamsburg,VA in May 2023. 
 

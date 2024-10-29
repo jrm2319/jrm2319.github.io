@@ -3,12 +3,6 @@ output_dir: "."
 navbar:
   title: "Home"
   right:
-    - text: "About Me"
-      href: about.html
-    - text: "Resume"
-      href: resume.html
-    - text: "Research"
-      href: research.html
     - icon: fa-envelope fa-lg
       href: mailto:<jrm2319@cumc.columbia.edu>
     - icon: fa-github fa-lg
