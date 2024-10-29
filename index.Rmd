@@ -1,0 +1,21 @@
+---
+title: "Jasmin Martinez"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+<div style="text-align: center;">
+   <img src="headshot.jpg" style="width:30%">
+</div>
+
+### Introduction
+Hello! My name is Jasmin Martinez (she/her/ella) and I am originally from Northern Virginia and El Salvador. I am a first-generation Latina student at Columbia’s Mailman School of Public Health, currently pursuing my MPH in Epidemiology with a Applied Biostatistics and Data Science certificate. I completed my B.S. in Biology and Kinesiology at the College of William & Mary in Williamsburg,VA in May 2023. 
+
+I am deeply interested to health disparities research, especially in the Latino community. Additionally, I am interested in the impact of medication adherence and language barriers on health outcomes. 
+
+### Hobbies
+In my free time, I enjoy reading non-fiction, watching documentaries, running, baking, and cooking!
+
+mmmkm
